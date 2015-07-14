@@ -1,9 +1,0 @@
-/Users/wangxiao/Projects/Hat/LittlePrinceReader/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
-/Users/wangxiao/Projects/Hat/LittlePrinceReader/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
-/Users/wangxiao/Projects/Hat/LittlePrinceReader/obj/iPhoneSimulator/Debug/actool/partial-info.plist
-/Users/wangxiao/Projects/Hat/LittlePrinceReader/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
-/Users/wangxiao/Projects/Hat/LittlePrinceReader/obj/iPhoneSimulator/Debug/
-/Users/wangxiao/Projects/Hat/LittlePrinceReader/bin/iPhoneSimulator/Debug/LittlePrinceReader.exe.mdb
-/Users/wangxiao/Projects/Hat/LittlePrinceReader/bin/iPhoneSimulator/Debug/LittlePrinceReader.exe
-/Users/wangxiao/Projects/Hat/LittlePrinceReader/obj/iPhoneSimulator/Debug/LittlePrinceReader.exe
-/Users/wangxiao/Projects/Hat/LittlePrinceReader/obj/iPhoneSimulator/Debug/LittlePrinceReader.exe.mdb
